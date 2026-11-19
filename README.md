@@ -1,7 +1,7 @@
-### Hi there 👋, I am [Vlodimir](https://rusty-sj.github.io/)! 😁
+### Hi there 👋, I am [Alexandr](https://rusty-sj.github.io/)! 😁
 
 <p>
-<img alt="Globe" height="80" src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif">
+<img alt="Globe" width=100% src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif">
 </p>
 
 <!-- Social -->
