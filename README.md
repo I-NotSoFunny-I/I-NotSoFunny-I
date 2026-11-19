@@ -55,7 +55,6 @@ My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: aandr6832@gmail.com
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
 
 **Languages and Tools:** 
 
