@@ -1,14 +1,10 @@
+
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /
 <p>
   <img width=100% src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif" />
 </p>
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <br />
-  <br />
-
 </div>
 
 <!-- Social -->
