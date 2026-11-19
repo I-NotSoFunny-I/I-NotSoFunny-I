@@ -51,7 +51,7 @@
 Hello, my name is Alexandr and I am a master's student . I am a no-stack software developer with 5 years of experience working as a vibecoder at Multicultural Multifunctional Artificial Intelect High technology NANOTEC security
 
 <p>
-<img height 20 src="https://images.meme-arsenal.com/bb883ac288fe0d6ffd3f658436380b47.jpg">
+<img height=20 src="https://images.meme-arsenal.com/bb883ac288fe0d6ffd3f658436380b47.jpg">
 </p>
 
 My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
