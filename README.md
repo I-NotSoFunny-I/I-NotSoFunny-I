@@ -42,7 +42,7 @@
 </tr>
 </table>
 
-### Hi there 👋, I am [Alexandr](https://rusty-sj.github.io/)! 😁
+### Hi there 👋, I am [Alexandr] 😁
 Hello, my name is Alexandr and I am a master's student . I am a no-stack software developer with 5 years of experience working as a vibecoder at Multicultural Multifunctional Artificial Intelect High technology NANOTEC security
 
 <div align="center">
