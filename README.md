@@ -6,7 +6,6 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="Never Gonna Give You Up Never Gonna Let You Down" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -16,7 +15,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="#">
 <strong>Visit my personal website </strong>
 <br />
 <br />
