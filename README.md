@@ -1,4 +1,3 @@
-### Hi there 👋, I am [Alexandr](https://rusty-sj.github.io/)! 😁
 <p>
   <img width=100% src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif" />
 </p>
@@ -47,7 +46,13 @@
 </td>
 </tr>
 </table>
-Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+
+### Hi there 👋, I am [Alexandr](https://rusty-sj.github.io/)! 😁
+Hello, my name is Alexandr and I am a master's student . I am a no-stack software developer with 5 years of experience working as a vibecoder at Multicultural Multifunctional Artificial Intelect High technology NANOTEC security
+<p>
+<img height 80 scr="https://images.meme-arsenal.com/bb883ac288fe0d6ffd3f658436380b47.jpg">
+</p>
+My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
