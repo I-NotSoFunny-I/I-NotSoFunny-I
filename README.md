@@ -49,10 +49,7 @@ Hello, my name is Alexandr and I am a master's student . I am a no-stack softwar
 <img height=200 src="https://images.meme-arsenal.com/bb883ac288fe0d6ffd3f658436380b47.jpg">
 </div>  
 
-My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
-
-
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+My technology stack involves C++, C# and HTML/CSS. Besides programming, I didn't have done anything, especially in programming.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: aandr6832@gmail.com
 
