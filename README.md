@@ -73,12 +73,6 @@ My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
-
-
 <div align="center">
 <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
@@ -91,6 +85,20 @@ My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=I-NotSoFunny-I&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=I-NotSoFunny-I&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=I-NotSoFunny-I&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+
+<!-- <p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=I-NotSoFunny-I&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=I-NotSoFunny-I&repo=pixel-weather">
+</p> -->
+
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
@@ -100,17 +108,3 @@ My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=I-NotSoFunny-I&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=I-NotSoFunny-I&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=I-NotSoFunny-I&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
-</p>
-
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=I-NotSoFunny-I&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=I-NotSoFunny-I&repo=pixel-weather">
-</p> -->
