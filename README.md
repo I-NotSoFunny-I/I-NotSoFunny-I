@@ -111,6 +111,6 @@ My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 </p>
 
 <!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=I-NotSoFunny-I&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=I-NotSoFunny-I&repo=pixel-weather">
 </p> -->
