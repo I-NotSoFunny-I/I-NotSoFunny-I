@@ -51,7 +51,7 @@
 Hello, my name is Alexandr and I am a master's student . I am a no-stack software developer with 5 years of experience working as a vibecoder at Multicultural Multifunctional Artificial Intelect High technology NANOTEC security
 
 <div align="center">
-<img height=800 src="https://images.meme-arsenal.com/bb883ac288fe0d6ffd3f658436380b47.jpg">
+<img height=200 src="https://images.meme-arsenal.com/bb883ac288fe0d6ffd3f658436380b47.jpg">
 </div>  
 
 My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
@@ -102,9 +102,9 @@ My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 </div>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=I-NotSoFunny-I&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=I-NotSoFunny-I&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=I-NotSoFunny-I&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
