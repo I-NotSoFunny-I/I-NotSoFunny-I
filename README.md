@@ -1,4 +1,9 @@
 ### Hi there 👋, I am [Vlodimir](https://rusty-sj.github.io/)! 😁
+
+<p>
+<img alt="Globe" height="80" src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif">
+</p>
+
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
