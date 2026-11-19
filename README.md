@@ -50,11 +50,9 @@
 ### Hi there 👋, I am [Alexandr](https://rusty-sj.github.io/)! 😁
 Hello, my name is Alexandr and I am a master's student . I am a no-stack software developer with 5 years of experience working as a vibecoder at Multicultural Multifunctional Artificial Intelect High technology NANOTEC security
 
-<p>
-<td align="center">
+<div align="center">
 <img height=80 src="https://images.meme-arsenal.com/bb883ac288fe0d6ffd3f658436380b47.jpg">
-</td>
-</p>
+</div>  
 
 My technology stack involves C++, C# and HTML/CSS. Besides programming, I have .
 
